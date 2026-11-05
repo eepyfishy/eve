@@ -12,7 +12,7 @@ The public eve project aims to provide:
 
 1. **Useful action:** perceive requests, plan steps, request approval where required, act through bounded capabilities, and communicate outcomes.
 2. **Continuity across interfaces:** a coherent assistant experience whether interaction comes from desktop, chat, voice, or a future integration.
-3. **Device cooperation:** use approved capabilities from local or remote eefn devices without giving an assistant unrestricted control of every host.
+3. **Node cooperation:** use approved capabilities from local or remote eef nodes without giving an assistant unrestricted control of every host.
 4. **User ownership:** let users choose their models, connected capabilities, permissions, and personalization.
 5. **Extensibility:** allow additional integrations without permanently embedding every feature into the assistant core.
 

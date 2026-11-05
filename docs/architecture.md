@@ -23,7 +23,7 @@ User / application
        | authenticated, authorized requests
        v
 +-------------------------+
-| eefn nodes              |
+| eef nodes               |
 | local capabilities,      |
 | local enforcement,       |
 | execution, results       |

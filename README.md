@@ -14,7 +14,7 @@ Today, the intended relationship is:
 
 - **eve** is the assistant people interact with.
 - **eef** is the framework that discovers, authorizes, and coordinates capabilities.
-- **eefn** is the node process that exposes enabled capabilities under the node owner's controls. It lives in the eef repository.
+- **eefn** means **eef node**. It is the node process that exposes enabled capabilities under the node owner's controls and lives in the eef repository.
 
 The public edition is intended to make that experience available to others without depending on any one person's private assistant data or configuration.
 
@@ -60,7 +60,7 @@ This is the target experience; availability of each step depends on the current 
 
 ## Related projects
 
-- [eef](https://github.com/eepyfishy/eef): the framework repository, containing both the eef coordinator and [eefn node](https://github.com/eepyfishy/eef/tree/main/crates/eefn).
+- [eef](https://github.com/eepyfishy/eef): the framework repository, containing both the eef coordinator and [eef node](https://github.com/eepyfishy/eef/tree/main/crates/eefn).
 
 ## Availability
 
